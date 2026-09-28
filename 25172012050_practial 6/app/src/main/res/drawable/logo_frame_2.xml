@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="100dp"
+    android:viewportWidth="200"
+    android:viewportHeight="100">
+    <!-- Icon -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M20,30 L40,30 L30,50 Z" />
+    <!-- "Ganpat" placeholder text shape -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M50,30 L100,30 L100,45 L50,45 Z" />
+</vector>

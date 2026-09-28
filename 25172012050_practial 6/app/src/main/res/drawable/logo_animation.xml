@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <!-- Extra slow reveal for the first three frames (Icon, Ganpat, University) -->
+    <item android:drawable="@drawable/uvpce_logo_1" android:duration="1200" />
+    <item android:drawable="@drawable/uvpce_logo_2" android:duration="1200" />
+    <item android:drawable="@drawable/uvpce_logo_3" android:duration="1200" />
+
+    <!-- Rest of the components -->
+    <item android:drawable="@drawable/uvpce_logo_4" android:duration="700" />
+    <item android:drawable="@drawable/uvpce_logo_5" android:duration="700" />
+    <item android:drawable="@drawable/uvpce_logo_6" android:duration="700" />
+    <item android:drawable="@drawable/uvpce_logo_7" android:duration="700" />
+    <item android:drawable="@drawable/uvpce_logo" android:duration="1000" />
+</animation-list>
